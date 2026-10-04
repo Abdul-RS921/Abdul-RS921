@@ -16,7 +16,7 @@ BS Computer Science student at the **University of Gujrat** (started October 202
 | [library-management-mysql](https://github.com/Abdul-RS921/library-management-mysql) | Library database with triggers, procedures and views | MySQL |
 | [gujrat-store-react](https://github.com/Abdul-RS921/gujrat-store-react) | Shopping store: search, cart, checkout | React, Vite |
 | [doctors-appointment-flutter](https://github.com/Abdul-RS921/doctors-appointment-flutter) | Find doctors and book appointments | Flutter, Dart |
-| [breast-cancer-detection-ml](https://github.com/Abdul-RS921/breast-cancer-detection-ml) | Tumour classification with honest test results | Python, scikit-learn |
+| [disease-detection-ml](https://github.com/Abdul-RS921/disease-detection-ml) | Tumour classification with honest test results | Python, scikit-learn |
 
 ## Tech I use
 
