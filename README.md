@@ -5,7 +5,6 @@ BS Computer Science student at the **University of Gujrat** (started October 202
 ## What I'm working on
 
 - **P&D Department Management System** (final year project): a platform for the University's Planning & Development Directorate to manage hostels, buildings, floors and rooms, with reports, an area calculator and map. Built with my team using Flutter, Node.js, MySQL and Firebase Authentication.
-- **Mobile games.**
 
 ## Projects
 
